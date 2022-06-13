@@ -5681,6 +5681,20 @@ SHA256: 211f614affbf5503b5a6c306cf30e5d562761ff2617a9f84655f496591421f7c
 Homepage: https://github.com/kha7iq/pingme
 Description: A small utility which can be called from anywhere to send a message with particular information
 
+Package: pkg-config
+Version: 0.29.2-1
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 148
+Depends: glib
+Filename: pool/main/pkg-config_0.29.2-1_aarch64.deb
+Size: 31360
+MD5sum: 5e069866ef715cd0f8d29a428f881094
+SHA1: 91848163cd35110ef7dc1dc5208dc52e48bf3760
+SHA256: 203199285a5e1c7f1c35e4b96485af9d1b3cb27c78cba6b7670169a7d58e841d
+Homepage: https://www.freedesktop.org/wiki/Software/pkg-config/
+Description: Helper tool used when compiling applications and libraries
+
 Package: postgresql
 Version: 14.2-4
 Architecture: aarch64
