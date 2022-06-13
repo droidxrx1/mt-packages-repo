@@ -1,0 +1,18 @@
+Origin: MT-Manager Packages
+Label: Apt repo MT-Manager
+Suite: stable
+Codename: stable
+Version: 2.0
+Architectures: aarch64
+Components: main
+Description: Packages repository for MT-Manager
+Date: Mon, 13 Jun 2022 12:27:14 +0000
+MD5Sum:
+ bccb65296eb21c79a219c51c8f469fbd 226578 main/binary-aarch64/Packages
+ 18ce6495df42314c560f64889a6cdda4 75539 main/binary-aarch64/Packages.gz
+SHA1:
+ a57d39ae06c4fe3183ebe8c9f38a9a26bb60d478 226578 main/binary-aarch64/Packages
+ b4707b0c5a1b89aa66839d9349583d447a3af289 75539 main/binary-aarch64/Packages.gz
+SHA256:
+ 5c35f662460edeb6604d5b6a160313da244a8bc33b3ca58e07a5b0b16dad45a1 226578 main/binary-aarch64/Packages
+ 84089925ee36326a0de7e75c7f09537ab56e194ff953ba17f445f19d592a0c02 75539 main/binary-aarch64/Packages.gz
